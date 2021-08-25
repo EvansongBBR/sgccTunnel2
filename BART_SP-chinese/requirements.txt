@@ -1,0 +1,10 @@
+jieba
+networkx
+dataclasses
+tqdm
+sqlparse
+pydantic
+sentencepiece
+nltk
+torch
+fairseq
